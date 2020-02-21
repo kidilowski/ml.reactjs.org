@@ -8,9 +8,10 @@ redirect_from:
 prev: composition-vs-inheritance.html
 ---
 
-React is, in our opinion, the premier way to build big, fast Web apps with JavaScript. It has scaled very well for us at Facebook and Instagram.
 
-One of the many great parts of React is how it makes you think about apps as you build them. In this document, we'll walk you through the thought process of building a searchable product data table using React.
+ജാവാസ്ക്രിപ്റ്റ്  ഉപയോഗിച്ചു വേഗതയുള്ള വലിയ വെബ്  അപ്പ്ലിക്കേഷൻസ് ഉണ്ടാകുവാനുള്ള ഒരു മികച്ച  വഴി ആണ്  React. ഫേസ്ബുക്കിലും ഇൻസ്റ്റാഗ്രാമിലും ഇത് ഞങ്ങൾക്ക് വളരെ നന്നായി സ്കെയിൽ ചെയ്തിട്ടുണ്ട്. 
+
+ഒരു ആപ്പിനെ പറ്റി ചിന്തിച്ചുകൊണ്ട് അത് ഉണ്ടാകുവാൻ പറ്റുമെന്നുള്ളതാണ് React ഇന്റെ ഒരു മഹത്വം. React  ഉപയോഗിച്ച് ഒരു  searchable product data table ഉണ്ടാകുമ്പോൾ ചിന്തിക്കേണ്ട കാര്യങ്ങൾ നമുക്കു ഈ ഡോക്യൂമെന്റിൽ ഉൾപ്പെടുത്തിയിട്ടുണ്ട്.
 
 ## Start With A Mock {#start-with-a-mock}
 
